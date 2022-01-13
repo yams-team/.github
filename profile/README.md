@@ -1,3 +1,3 @@
 # yams ![](/logo.svg)
 
-**y**et **a**nother **M**ultiplayer **S**erver
+**y**et **a**nother **m**ultiplayer **m**erver
