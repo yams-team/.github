@@ -10,6 +10,6 @@
 </tr>
 <tr>
 <th>WorldArchitect</th>
-<td><a href="https://github.com/yams-team/WorldArchitect/actions/workflows/dotnet.yml"><img src="https://github.com/yams-team/WorldArchitect/actions/workflows/dotnet.yml/badge.svg" alt="Tests"></a></td>
+<td><a href="https://github.com/yams-team/WorldArchitect/actions/workflows/pages.yml"><img src="https://github.com/yams-team/WorldArchitect/actions/workflows/pages.yml/badge.svg" alt="Deploy static content to Pages"></a></td>
 </tr>
 </thead></table>
